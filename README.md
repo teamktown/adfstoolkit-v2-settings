@@ -1,0 +1,1 @@
+# adfstoolkit-v2-settings
