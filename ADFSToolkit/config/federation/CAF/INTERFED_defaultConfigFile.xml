@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-    <ConfigVersion>1.3</ConfigVersion>
+    <ConfigVersion>1.2</ConfigVersion>
     <SPHashFile>SPHash.xml</SPHashFile>
     <MetadataCacheFile>metadata.cached.xml</MetadataCacheFile>
     <LocalRelyingPartyFile>get-ADFSTkLocalManualSPSettings.ps1</LocalRelyingPartyFile>
