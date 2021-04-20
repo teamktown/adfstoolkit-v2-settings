@@ -4,8 +4,11 @@
 A collection of federation defaults for optimal handling of R&E federation aggregates and trust models.
 
 
-Missing settings for your federation? Contact your federation operator via  their [eduGAIN contact](https://technical.edugain.org/status) to have them get added here by forking the repo and mapping the federation into the eduGAIN shortname like the others and then submit a pull request to be added.
+Missing settings for your federation? 
+Contact your federation operator via  their [eduGAIN contact](https://technical.edugain.org/status). Request them to update their records heree by forking the repo and mapping their all caps edugain shortname (like the others) and submit a pull request to be added.  
 
-## ADFSToollkit
+## Tools Using These Defaults (so far)
+
+[ADFSToolkit](https://github.com/fedtools/adfstoolkit)
 
 
