@@ -4,7 +4,7 @@
 	<SPHashFile>SPHash.xml</SPHashFile>
 	<MetadataCacheFile>metadata.cached.xml</MetadataCacheFile>
 	<LocalRelyingPartyFile>get-ADFSTkLocalManualSPSettings.ps1</LocalRelyingPartyFile>
-	<MetadataPrefix>InCommon</MetadataPrefix>
+	<MetadataPrefix>INC</MetadataPrefix>
 
 	<MetadataPrefixSeparator>:</MetadataPrefixSeparator>
 	<eduPersonPrincipalNameRessignable/>
