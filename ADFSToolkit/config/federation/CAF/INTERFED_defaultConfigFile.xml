@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-    <ConfigVersion>1.2</ConfigVersion>
+    <ConfigVersion>1.3</ConfigVersion>
     <SPHashFile>SPHash.xml</SPHashFile>
     <MetadataCacheFile>metadata.cached.xml</MetadataCacheFile>
     <LocalRelyingPartyFile>get-ADFSTkLocalManualSPSettings.ps1</LocalRelyingPartyFile>
@@ -117,6 +117,14 @@
             </attribute>
             
              <attribute type="urn:mace:dir:attribute-def:eduPersonScopedAffiliation" store="Active Directory" name="eduPersonScopedAffiliation" >
+              <restrictedvalue>faculty</restrictedvalue>
+              <restrictedvalue>staff</restrictedvalue>
+              <restrictedvalue>employee</restrictedvalue>
+              <restrictedvalue>student</restrictedvalue>
+              <restrictedvalue>alum</restrictedvalue>
+              <restrictedvalue>affiliate</restrictedvalue>
+              <restrictedvalue>member</restrictedvalue>
+              <restrictedvalue>library-walk-in</restrictedvalue>
             </attribute>
        
             <!-- end Scenario C. Attribute assignment -->
