@@ -117,14 +117,6 @@
             </attribute>
             
              <attribute type="urn:mace:dir:attribute-def:eduPersonScopedAffiliation" store="Active Directory" name="eduPersonScopedAffiliation" >
-              <restrictedvalue>faculty</restrictedvalue>
-              <restrictedvalue>staff</restrictedvalue>
-              <restrictedvalue>employee</restrictedvalue>
-              <restrictedvalue>student</restrictedvalue>
-              <restrictedvalue>alum</restrictedvalue>
-              <restrictedvalue>affiliate</restrictedvalue>
-              <restrictedvalue>member</restrictedvalue>
-              <restrictedvalue>library-walk-in</restrictedvalue>
             </attribute>
        
             <!-- end Scenario C. Attribute assignment -->
